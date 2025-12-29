@@ -38,8 +38,7 @@ C:\Users\AjinkyaBahirat\CloudRedux_Task\
 │   ├── memory.py            # ChromaDB Memory Layer
 │   ├── tools.py             # Tools (Vendor Search)
 │   └── config.py            # Configuration Loader
-└── data/
-    └── mock_vendors.json    # Vendor data file
+└── mock_vendors.json    # Vendor data file
 ```
 
 ## 🧠 Internal Architecture
