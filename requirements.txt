@@ -1,0 +1,10 @@
+litellm
+google-cloud-aiplatform
+python-dotenv
+chromadb
+google-generativeai
+python-dotenv
+litellm
+numpy
+gradio
+google-adk

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "BadRock Cements",
+        "product": "cement",
+        "price_per_unit": 350,
+        "quality_rating": 2.5
+    },
+    {
+        "name": "GoodRock Cements",
+        "product": "cement",
+        "price_per_unit": 420,
+        "quality_rating": 4.8
+    },
+    {
+        "name": "PremiumBuild",
+        "product": "cement",
+        "price_per_unit": 450,
+        "quality_rating": 5.0
+    },
+    {
+        "name": "Jindal Steel",
+        "product": "steel",
+        "price_per_unit": 500,
+        "quality_rating": 5.0
+    },
+    {
+        "name": "Mukund Sumi Steel",
+        "product": "steel",
+        "price_per_unit": 400,
+        "quality_rating": 4.0
+    }
+]
